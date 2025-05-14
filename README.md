@@ -1,1 +1,2 @@
 # Titanic-Dataset-DSF39
+This project analyzes the Titanic dataset using Python and pandas. It contains data on 891 passengers with 12 features such as age, gender, class, fare, and survival status. The dataset includes some missing values, particularly in the `Age`, `Cabin`, and `Embarked` columns. It is useful for learning data cleaning, exploration, and basic analysis techniques, such as examining survival rates based on gender, class, and embarkation port.
